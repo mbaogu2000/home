@@ -12,12 +12,12 @@ export function properties() {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0 fw-semibold align-items-center">
                     <li class="nav-item"><a class="nav-link px-3" href="#">Home</a></li>
-                    <li class="nav-item"><a class="nav-link active text-primary px-3" href="#">Properties</a></li>
-                    <li class="nav-item"><a class="nav-link px-3" href="#">Agents</a></li>
-                    <li class="nav-item"><a class="nav-link px-3" href="#">About</a></li>
-                    <li class="nav-item"><a class="nav-link px-3" href="#">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link active text-primary px-3" href="properties">Properties</a></li>
+                    <li class="nav-item"><a class="nav-link px-3" href="agents">Agents</a></li>
+                    <li class="nav-item"><a class="nav-link px-3" href="about">About</a></li>
+                    <li class="nav-item"><a class="nav-link px-3" href="contact">Contact</a></li>
                     <li class="nav-item ms-lg-3">
-                        <a class="btn btn-primary text-white px-4 rounded-pill shadow-sm" href="#">Add Listing</a>
+                        <a class="btn btn-primary text-white px-4 rounded-pill shadow-sm" href="listing">Add Listing</a>
                     </li>
                 </ul>
             </div>

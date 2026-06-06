@@ -17,7 +17,7 @@ export function about() {
                     <li class="nav-item"><a class="nav-link active text-primary px-3" href="about">About</a></li>
                     <li class="nav-item"><a class="nav-link px-3" href="contact">Contact</a></li>
                     <li class="nav-item ms-lg-3">
-                        <a class="btn btn-primary text-white px-4 rounded-pill shadow-sm" href="#">Add Listing</a>
+                        <a class="btn btn-primary text-white px-4 rounded-pill shadow-sm" href="listing">Add Listing</a>
                     </li>
                 </ul>
             </div>
